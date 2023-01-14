@@ -1,0 +1,8 @@
+nstates,2
+ngrid, 512
+cutoff, 5.0
+u0,2.0
+alpha,1.0
+kin,0.2
+m,2000.0
+ht, 0.1
